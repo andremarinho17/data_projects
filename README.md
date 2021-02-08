@@ -19,8 +19,8 @@ Entusiasta do mundo dos dados e storytelling, principalmente voltado para os esp
 ## Projetos:
 Veja os tutoriais publicados por mim:
 
-* **Análise dos Dados do Airbnb - Paris:** encurtador.com.br/oJLV1
-* **Análise dos Dados de Uma Empresa com Python:** encurtador.com.br/nwNQ6
+* **Análise dos Dados do Airbnb - Paris:** https://encurtador.com.br/oJLV1
+* **Análise dos Dados de Uma Empresa com Python:** https://encurtador.com.br/nwNQ6
 
 ---
 
