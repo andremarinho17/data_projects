@@ -7,7 +7,7 @@
 # André Marinho
 <sub>Analista de Dados</sub>
 
-Entusiasta do mundo dos dados e storytelling, principalmente voltado para os esportes! Hoje, atuo como Analista de Dados e estudo a Ciência de Dados. Estou em constante busca pelo aprimoramento dos conhecimentos em estatística, machine learning e negócios, com o objetivo de  entender melhor como os dados se comportam e extrair informações valiosas deles, pois desta forma, consigo auxiliar a tomada de decisão através de boas estórias!
+Entusiasta do mundo dos dados e storytelling, principalmente voltado para os esportes! Hoje, atuo como Analista de Dados e estudo a Ciência de Dados. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning e Negócios, com o objetivo de  entender melhor como os dados se comportam e extrair informações valiosas deles, pois desta forma, consigo auxiliar a tomada de decisão através de boas estórias e análises!
 
 **Experiências em:** Python, Power BI, Análise de Dados.
 
@@ -19,8 +19,8 @@ Entusiasta do mundo dos dados e storytelling, principalmente voltado para os esp
 ## Projetos:
 Veja os tutoriais publicados por mim:
 
-* **Análise dos Dados do Airbnb - Paris:** https://github.com/andremarinho17/data_projects/blob/master/Analisando_os_Dados_do_Airbnb_Paris.ipynb
-* **Análise dos Dados de Uma Empresa com Python:** https://github.com/andremarinho17/data_projects/blob/master/Analisando_Dados_de_uma_Empresa_com_Python.ipynb
+* **Análise dos Dados do Airbnb - Paris:** encurtador.com.br/oJLV1
+* **Análise dos Dados de Uma Empresa com Python:** encurtador.com.br/nwNQ6
 
 ---
 
