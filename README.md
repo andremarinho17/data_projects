@@ -7,7 +7,7 @@
 # André Marinho
 <sub>Analista de Dados</sub>
 
-Entusiasta do mundo dos dados e storytelling, principalmente voltado para os esportes! Hoje, atuo como Analista de Dados e estudo a Ciência de Dados. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning e Negócios, com o objetivo de  entender melhor como os dados se comportam e extrair informações valiosas deles, pois desta forma, consigo auxiliar a tomada de decisão através de boas estórias e análises!
+Entusiasta do mundo dos dados e storytelling, principalmente voltado para os esportes. Hoje, atuo como Analista de Dados e estudo a Ciência de Dados. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning e Negócios, com o objetivo de  entender melhor como os dados se comportam e extrair informações valiosas deles. Desta forma, consigo auxiliar a tomada de decisão através de boas estórias e análises!
 
 **Experiências em:** Python, Power BI, Análise de Dados.
 
