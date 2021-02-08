@@ -1,2 +1,30 @@
-## Analise de Dados e Data Science
-Repositório de Análise de Dados e Data Science, com notebooks de meus projetos.
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andremarinho17/data_projects/master/An%C3%A1lise%20e%20Ci%C3%AAncia%20de%20Dados.png" >
+</p>
+
+# André Marinho
+<sub>Analista de Dados</sub>
+
+Entusiasta do mundo dos dados e storytelling, principalmente voltado para os esportes! Hoje, atuo como Analista de Dados e estudo a Ciência de Dados. Estou em constante busca pelo aprimoramento dos conhecimentos em estatística, machine learning e negócios, com o objetivo de  entender melhor como os dados se comportam e extrair informações valiosas deles, pois desta forma, consigo auxiliar a tomada de decisão através de boas estórias!
+
+**Experiências em:** Python, Power BI, Análise de Dados.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/andremaarinho/)
+* [Medium](https://andremaarinho.medium.com/)
+
+
+## Projetos:
+Veja os tutoriais publicados por mim:
+
+* **Análise dos Dados do Airbnb - Paris:** https://github.com/andremarinho17/data_projects/blob/master/Analisando_os_Dados_do_Airbnb_Paris.ipynb
+* **Análise dos Dados de Uma Empresa com Python:** https://github.com/andremarinho17/data_projects/blob/master/Analisando_Dados_de_uma_Empresa_com_Python.ipynb
+
+---
+
+
+
+
+
