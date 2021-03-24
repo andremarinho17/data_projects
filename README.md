@@ -19,9 +19,17 @@ Entusiasta do mundo dos dados e storytelling, principalmente voltado para os esp
 ## Projetos:
 Veja os projetos publicados por mim:
 
-* **Análise dos Dados do Airbnb - Paris:** https://encurtador.com.br/oJLV1
-* **Análise dos Dados de Uma Empresa com Python:** https://encurtador.com.br/nwNQ6
+## Data Science:
+* **Análise dos Dados do Airbnb - Paris:** https://bit.ly/2QC5LrK
+* **Análise dos Dados de Uma Empresa com Python:** https://bit.ly/3tRJmVy
 
+## Dashboards (Power BI):
+* **Dashboard Comercial:** https://bit.ly/2OV6O5J
+* **Dashboard Comercial - Versão Curso Express:** https://bit.ly/3lOpGiH
+* **Dashboard Financeiro:** https://bit.ly/31bHTgG
+* **Dashboard Logística:** https://bit.ly/31bTdt6
+* **Dashboard Tickets de Suporte:** https://bit.ly/3rgcWSZ
+* **Financial Dashboard:** https://bit.ly/3rhY0Ux
 ---
 
 
