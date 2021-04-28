@@ -21,6 +21,8 @@ Veja os projetos publicados por mim:
 
 ## Data Science:
 * **Análise dos Dados do Airbnb - Paris:** https://bit.ly/2QC5LrK
+
+## Python:
 * **Análise dos Dados de Uma Empresa com Python:** https://bit.ly/3tRJmVy
 
 ## Dashboards (Power BI):
