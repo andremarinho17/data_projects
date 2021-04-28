@@ -24,6 +24,7 @@ Veja os projetos publicados por mim:
 
 ## Python:
 * **Análise dos Dados de Uma Empresa com Python:** https://bit.ly/3tRJmVy
+* **Análise de Dados do Gmail:** https://bit.ly/3nB9oL2
 
 ## Dashboards (Power BI):
 * **Dashboard Comercial:** https://bit.ly/2OV6O5J
