@@ -21,6 +21,7 @@ Veja os projetos publicados por mim:
 
 ## Data Science:
 * **Análise dos Dados do Airbnb - Paris:** https://bit.ly/2QC5LrK
+* **Análise da Violência no Rio de Janeiro:** https://bit.ly/3bMR3Ga
 
 ## Python:
 * **Análise dos Dados de Uma Empresa com Python:** https://bit.ly/3tRJmVy
@@ -35,6 +36,7 @@ Veja os projetos publicados por mim:
 * **Dashboard Logística:** https://bit.ly/31bTdt6
 * **Dashboard Tickets de Suporte:** https://bit.ly/3rgcWSZ
 * **Financial Dashboard:** https://bit.ly/3rhY0Ux
+* **GDP Dashboard - Time Series Forecasting:** https://bit.ly/2Sdh2Qa
 ---
 
 
