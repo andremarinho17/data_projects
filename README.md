@@ -30,6 +30,7 @@ Veja os projetos publicados por mim:
 * **Análise de Dados do Gmail:** https://bit.ly/3nB9oL2
 
 ## Dashboards (Power BI):
+* **Dashboard Brasileirão:** https://bit.ly/2RELByj
 * **Dashboard Comercial:** https://bit.ly/2OV6O5J
 * **Dashboard Comercial - Versão Curso Express:** https://bit.ly/3lOpGiH
 * **Dashboard Financeiro:** https://bit.ly/31bHTgG
