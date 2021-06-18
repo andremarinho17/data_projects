@@ -38,6 +38,7 @@ Veja os projetos publicados por mim:
 * **Dashboard Tickets de Suporte:** https://bit.ly/3rgcWSZ
 * **Financial Dashboard:** https://bit.ly/3rhY0Ux
 * **GDP Dashboard - Time Series Forecasting:** https://bit.ly/2Sdh2Qa
+* **Sales Report:** https://bit.ly/3vD7ax3
 ---
 
 
