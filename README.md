@@ -39,6 +39,10 @@ Veja os projetos publicados por mim:
 * **Financial Dashboard:** https://bit.ly/3rhY0Ux
 * **GDP Dashboard - Time Series Forecasting:** https://bit.ly/2Sdh2Qa
 * **Sales Report:** https://bit.ly/3vD7ax3
+
+## Dashboards (Tableau):
+* **Análisis de los Delanteros de Barcelona, Atlético de Madrid, Real Bétis y Eibar:** https://tabsoft.co/3xW8Sve
+
 ---
 
 
