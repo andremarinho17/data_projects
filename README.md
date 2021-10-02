@@ -19,9 +19,12 @@ Bacharelando em Sistemas de Informação pela Pontifícia Universidade Católica
 ## Projetos:
 Veja os projetos publicados por mim:
 
-## Data Science:
+## Data Science e Analytics:
 * **Análise dos Dados do Airbnb - Paris:** https://bit.ly/2QC5LrK
 * **Análise da Violência no Rio de Janeiro:** https://bit.ly/3bMR3Ga
+* **Análise dos Dados do Emmy 2021:** https://bit.ly/3mfOTDq
+* **Análisis de Leeds United:** https://bit.ly/3mlmgEz
+
 
 ## Python:
 * **Análise dos Dados de Uma Empresa com Python:** https://bit.ly/3tRJmVy
