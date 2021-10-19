@@ -22,7 +22,7 @@ Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, M
 Veja os projetos publicados por mim:
 
 ## Data Science e Analytics:
-* **Análise dos Dados do Airbnb - Paris:** https://bit.ly/2QC5LrK
+* **Análise dos Dados do Airbnb - Paris:** https://bit.ly/3aSs7Mp
 * **Análise da Violência no Rio de Janeiro:** https://bit.ly/3bMR3Ga
 * **Análise dos Dados do Emmy 2021:** https://bit.ly/3mfOTDq
 * **Análisis de Leeds United:** https://bit.ly/3mlmgEz
