@@ -26,6 +26,7 @@ Veja os projetos publicados por mim:
 * **Análise da Violência no Rio de Janeiro:** https://bit.ly/3bMR3Ga
 * **Análise dos Dados do Emmy 2021:** https://bit.ly/3mfOTDq
 * **Análisis de Leeds United:** https://bit.ly/3mlmgEz
+* **Panorama do COVID-19 no Brasil:** https://bit.ly/3pnjBNQ
 
 
 ## Python:
