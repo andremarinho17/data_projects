@@ -16,7 +16,7 @@ Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, M
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andremaarinho/)
 * [Medium](https://andremaarinho.medium.com/)
-* [Site(Portfólio)] (https://andremaarinho.wixsite.com/meu-site)
+* [Site(Portfólio)](https://andremaarinho.wixsite.com/meu-site)
 
 
 ## Projetos:
