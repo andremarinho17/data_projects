@@ -28,6 +28,7 @@ Veja os projetos publicados por mim:
 * **Análise dos Dados do Emmy 2021:** https://bit.ly/3mfOTDq
 * **Análisis de Leeds United:** https://bit.ly/3mlmgEz
 * **Panorama do COVID-19 no Brasil:** https://bit.ly/3pnjBNQ
+* **Clustering com Dados do FIFA 20: Os Dados a Favor da Montagem de um Elenco**: https://bit.ly/3xnREcL
 
 
 ## Python:
