@@ -46,7 +46,7 @@ Veja os projetos publicados por mim:
 * **Dashboard Tickets de Suporte:** https://bit.ly/3rgcWSZ
 * **Financial Dashboard:** https://bit.ly/3rhY0Ux
 * **GDP Dashboard - Time Series Forecasting:** https://bit.ly/2Sdh2Qa
-* **Sales Report:** https://bit.ly/3vD7ax3
+* **Sales Report:** [https://bit.ly/3vD7ax3](https://bit.ly/43CFdXg)
 
 ## Dashboards (Tableau):
 * **Análisis de los Delanteros de Barcelona, Atlético de Madrid, Real Bétis y Eibar:** https://tabsoft.co/3xW8Sve
