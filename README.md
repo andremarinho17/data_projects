@@ -45,7 +45,7 @@ Veja os projetos publicados por mim:
 * **Dashboard Logística:**  https://bit.ly/3Y3OPcc
 * **Dashboard Tickets de Suporte:** [https://bit.ly/3rgcWSZ](https://bit.ly/474Mpym)
 * **Financial Dashboard:** [https://bit.ly/3rhY0Ux](https://bit.ly/474h4eQ)
-* **GDP Dashboard - Time Series Forecasting:** [https://bit.ly/2Sdh2Qa](https://bit.ly/44Zbusm)
+* **GDP Dashboard - Time Series Forecasting:** https://bit.ly/44UBGEC
 * **Sales Report:** [https://bit.ly/3vD7ax3](https://bit.ly/43CFdXg)
 
 ## Dashboards (Tableau):
