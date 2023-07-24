@@ -38,14 +38,14 @@ Veja os projetos publicados por mim:
 * **Análise de Dados do Gmail:** https://bit.ly/3nB9oL2
 
 ## Dashboards (Power BI):
-* **Dashboard Brasileirão:** https://bit.ly/2RELByj
-* **Dashboard Comercial:** https://bit.ly/2OV6O5J
-* **Dashboard Comercial - Versão Curso Express:** https://bit.ly/3lOpGiH
-* **Dashboard Financeiro:** https://bit.ly/31bHTgG
-* **Dashboard Logística:** https://bit.ly/31bTdt6
-* **Dashboard Tickets de Suporte:** https://bit.ly/3rgcWSZ
-* **Financial Dashboard:** https://bit.ly/3rhY0Ux
-* **GDP Dashboard - Time Series Forecasting:** https://bit.ly/2Sdh2Qa
+* **Dashboard Brasileirão:** [https://bit.ly/2RELByj](https://bit.ly/3pUC9Ie)
+* **Dashboard Comercial:** [https://bit.ly/2OV6O5J](https://bit.ly/3QbRSgM)
+* **Dashboard Comercial - Versão Curso Express:** [https://bit.ly/3lOpGiH](https://bit.ly/3OncuBb)
+* **Dashboard Financeiro:** [https://bit.ly/31bHTgG](https://bit.ly/3Q8xOeY)
+* **Dashboard Logística:** [https://bit.ly/31bTdt6](https://bit.ly/3OrqIRC)
+* **Dashboard Tickets de Suporte:** [https://bit.ly/3rgcWSZ](https://bit.ly/474Mpym)
+* **Financial Dashboard:** [https://bit.ly/3rhY0Ux](https://bit.ly/474h4eQ)
+* **GDP Dashboard - Time Series Forecasting:** [https://bit.ly/2Sdh2Qa](https://bit.ly/44Zbusm)
 * **Sales Report:** [https://bit.ly/3vD7ax3](https://bit.ly/43CFdXg)
 
 ## Dashboards (Tableau):
